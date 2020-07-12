@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace PokerGame
 {
     class Program
@@ -7,7 +8,6 @@ namespace PokerGame
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.ReadKey();
         }
     }
 }
